@@ -19,7 +19,6 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
   <img align="center" alt="Millena-Portugol" height="40" width="50" src="https://img.shields.io/badge/Portugol-8A5CF6?style=for-the-badge&logo=code&logoColor=white">
 
 </div>
----
 
 ## Contato
 
