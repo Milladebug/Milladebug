@@ -8,15 +8,13 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
 
 ## Tecnologias
 
-<div style="display: inline_block"><br>
+<div>
 
-  <img align="center" alt="Millena-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://img.shields.io/badge/Python-8A5CF6?style=for-the-badge&logo=python&logoColor=white">
 
-  <img align="center" alt="Millena-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img src="https://img.shields.io/badge/JavaScript-8A5CF6?style=for-the-badge&logo=javascript&logoColor=white">
 
-  <img align="center" alt="Millena-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
-  <img align="center" alt="Millena-Portugol" height="40" width="50" src="https://img.shields.io/badge/Portugol-8A5CF6?style=for-the-badge&logo=code&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-8A5CF6?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
 
