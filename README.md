@@ -39,16 +39,6 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
 
 </div>
 
-## Redes e contato
-
-**Instagram:** [@millena_jf](https://instagram.com/millena_jf)
-
-**E-mail:** [qmilenna009@gmail.com](mailto:qmilenna009@gmail.com)
-
-**WhatsApp:** [32 8826-6492](https://wa.me/553288266492)
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer"/>
