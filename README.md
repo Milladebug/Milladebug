@@ -19,28 +19,6 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
   <img align="center" alt="Millena-Portugol" height="40" width="50" src="https://img.shields.io/badge/Portugol-8A5CF6?style=for-the-badge&logo=code&logoColor=white">
 
 </div>
-
----
-
-## Atualmente estudando
-
-- Python
-- JavaScript
-- Java
-- Portugol
-- Desenvolvimento Web
-- Banco de Dados
-
----
-
-## Sobre mim
-
-Estou no início da minha trajetória na programação e busco evoluir constantemente por meio de estudos e projetos.
-
-Tenho interesse em desenvolvimento de sistemas, desenvolvimento web e tecnologia em geral.
-
-Acredito que programar vai além de escrever código. É aprender a resolver problemas, desenvolver soluções e transformar ideias em projetos reais.
-
 ---
 
 ## Contato
