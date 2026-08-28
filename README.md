@@ -14,7 +14,7 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
 
   <img src="https://img.shields.io/badge/JavaScript-8A5CF6?style=for-the-badge&logo=javascript&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Java-8A5CF6?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-8A5CF6?style=for-the-badge&logo=java&logoColor=white">
 
 </div>
 
