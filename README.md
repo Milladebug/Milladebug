@@ -18,6 +18,8 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
 
 </div>
 
+---
+
 ## Contato
 
 <div>
@@ -36,8 +38,10 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer">
 
 </div>
