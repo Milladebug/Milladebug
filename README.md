@@ -39,8 +39,6 @@ Estou construindo minha trajetória na área de desenvolvimento, aprendendo atra
 
 </div>
 
----
-
 ## Redes e contato
 
 **Instagram:** [@millena_jf](https://instagram.com/millena_jf)
